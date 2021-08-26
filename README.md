@@ -16,111 +16,61 @@
 
 [<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" />][facebook]
+[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br>
 
 ### Languages and Tools:
 
-<!-- [whatever]: VSCODE
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] -->
+[<img align="left" alt="python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]
 
-<!-- Python -->
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="BS" width="75px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg">]
 
+[<img align="left" alt="scrapy" width="75px" src="https://i.imgur.com/9o8bn1H.png">]
 
-<!-- Beautiful soup -->
-[<img align="left" alt="BS" width="26px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" />]
+[<img align="left" alt="pandas" width="75px" src="https://pandas.pydata.org/static/img/pandas_mark.svg">]
 
+[<img align="left" alt="Matplotlib" width="75px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png">]
 
-<!-- Scrapy -->
-[<img align="left" alt="scrapy" width="26px" src="https://i.imgur.com/9o8bn1H.png" />]
+[<img align="left" alt="Tensorflow" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">]
 
+[<img align="left" alt="Keras" width="75px" src="https://keras.io/img/logo.png">]
 
-<!-- pandas -->
-[<img align="left" alt="pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />]
+[<img align="left" alt="scikit" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">]
 
+[<img align="left" alt="django" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">]
 
-<!-- matplotlib -->
-[<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />]
+[<img align="left" alt="flask" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">]
 
+[<img align="left" alt="SQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">]
 
-<!-- Tensorflow -->
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
-" />]
+[<img align="left" alt="postgresql" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">]
 
+[<img align="left" alt="HTML5" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]
 
-<!-- Keras -->
-[<img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />]
+[<img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">]
 
+[<img align="left" alt="bootstrap" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">]
 
-<!-- Scikit -->
-[<img align="left" alt="scikit" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />]
+[<img align="left" alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">]
 
+[<img align="left" alt="C" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">]
 
-<!-- django -->
-[<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+[<img align="left" alt="C++" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">]
 
+[<img align="left" alt="QT" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png">]
 
-<!-- flask -->
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
+[<img align="left" alt="Audrino" width="75px" src="https://i.imgur.com/k1MIO51.png">]
 
+[<img align="left" alt="Java" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">]
 
-<!-- SQL -->
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Terminal" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]
 
+[<img align="left" alt="powershell" width="75px" src="https://docs.microsoft.com/en-us/powershell/media/index/ps_black_128.svg">]
 
-<!-- Postgres -->
-[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
+[<img align="left" alt="Git" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">]
 
-
-<!-- Html -->
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-
-<!-- css -->
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-
-
-<!-- bootstrap -->
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]
-
-
-<!-- JS -->
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-
-
-<!-- C -->
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
-
-
-<!-- C++ -->
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
-
-
-<!-- QT -->
-[<img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />]
-
-
-<!-- Audrino -->
-[<img align="left" alt="Audrino" width="26px" src="https://i.imgur.com/k1MIO51.png" />]
-
-
-<!-- JAVA -->
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-
-
-<!-- Terminal -->
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-
-<!-- Powershell -->
-[<img align="left" alt="powershell" width="26px" src="https://docs.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" />]
-
-
-<!-- GIT and GITHUB -->
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="GitHub" width="75px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">]
 
 <br>
 <br>
