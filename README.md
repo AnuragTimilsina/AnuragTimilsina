@@ -1,23 +1,10 @@
 ### Hello, I'm Anurag Timilsina.
 
-## I'm a second year computer engineering student at Kathmandu University. 
+## I'm a second-year computer engineering student at Kathmandu University. 
 - 🌱 I’m currently learning everything! 🤣
 - 👯 I’m looking to collaborate with other fellow programmers!
 - 🥅 2021 Goals: Complete fundamentals of AI including maths and improve my frontend skills! 😅 
 - ⚡ Fun fact: I'm literally interested in everything! I'm a decent cricketer, decent poet, decent writter, decent public speaker, casual guitarist, casual footballer, casual gamer and much more! 🤣
-
-### Connect with me:
-
-[<img align="left" alt="Anurag | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="Anurag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br>
 
 ### Languages and Tools:
@@ -143,13 +130,21 @@
 <br>
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragTimilsina&count_private=true)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragTimilsina&count_private=true)
+### Connect with me:
+
+[<img align="left" alt="Anurag | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="Anurag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-</details>
 
 [twitter]: https://twitter.com/TimilsinaAnurag
 [youtube]: https://www.youtube.com/channel/UCDwG7O6D3ePeatk3zJ9qhlg
