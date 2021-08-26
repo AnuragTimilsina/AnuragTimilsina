@@ -1,7 +1,7 @@
 ### Hello, I'm Anurag Timilsina.
 
 ## I'm a second-year computer engineering student at Kathmandu University. 
-- 🌱 I’m currently learning everything! 🤣
+- 🌱 I’m currently learning nothing! 🤣
 - 👯 I’m looking to collaborate with other fellow programmers!
 - 🥅 2021 Goals: Complete fundamentals of AI including maths and improve my frontend skills! 😅 
 - ⚡ Fun fact: I'm literally interested in everything! I'm a decent cricketer, decent poet, decent writter, decent public speaker, casual guitarist, casual footballer, casual gamer and much more! 🤣
