@@ -1,11 +1,6 @@
 ### Hello, I'm Anurag Timilsina.
 
 ## I'm a second-year computer engineering student at Kathmandu University. 
-- 🌱 I’m currently learning everything! 🤣
-- 👯 I’m looking to collaborate with other fellow programmers!
-- 🥅 2021 Goals: Complete fundamentals of AI including maths and improve my frontend skills! 😅 
-- ⚡ Fun fact: I'm literally interested in everything! I'm a decent cricketer, decent poet, decent writter, decent public speaker, casual guitarist, casual footballer, casual gamer and much more! 🤣
-<br>
 
 ### Languages and Tools:
 
@@ -140,17 +135,10 @@
 
 [<img align="left" alt="Anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-
 
 [twitter]: https://twitter.com/TimilsinaAnurag
 [youtube]: https://www.youtube.com/channel/UCDwG7O6D3ePeatk3zJ9qhlg
-[instagram]: https://www.instagram.com/anurag_tim/
 [linkedin]: https://www.linkedin.com/in/anurag-timilsina-915a3a1b3/
-[facebook]: https://www.facebook.com/anurag.timilsina.10/
 
 
 
