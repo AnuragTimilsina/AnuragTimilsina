@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Timilsina</h1>
-<h3 align="center">Computer engineering student at Kathmandu University (KU) | Web Developer | ML enthusiast | Python developer</h3>
+<h3 align="center">Student and researcher @ Kathmandu University | Python, Neural Networks, Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtimilsina&label=Profile%20views&color=0e75b6&style=flat" alt="anuragtimilsina" /> </p>
 
