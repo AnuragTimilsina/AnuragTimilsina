@@ -13,7 +13,7 @@
 
 - 📫 Email id: **anurag.timilsina@gmail.com**
 
-- ⚡ Fun fact: **I'm literally interested in everything! However, I'm more inclined towards cricket, literature, guitar, football, books, and much more.**
+- ⚡ Fun fact: **I'm literally interested in everything! However, I'm more inclined towards cricket, literature, guitar, football, and books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
