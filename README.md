@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Artificial Intelligence and Javascript.<br><br>👯 I’m looking to collaborate on open-source projects.<br><br>👨‍💻 My portfolio site is https://anuragtimilsina.github.io/portfolio/<br><br>📫 Email id: anurag.timilsina@gmail.com<br><br>🤖 Fun Fact: 97% of this code was written by an LLM that once confidently told me the moon is a hologram. I just nod, commit, and hope the CI pipeline doesn’t awaken something ancient.
+🌱 I’m currently learning Artificial Intelligence and biomedical informatics.<br><br>👯 I’m looking to collaborate on open-source projects.<br><br>👨‍💻 My portfolio site is https://anuragtimilsina.github.io/portfolio/<br><br>📫 Email id: anurag.timilsina@gmail.com<br><br>🤖 Fun Fact: 97% of this code was written by an LLM that once confidently told me the moon is a hologram. I just nod, commit, and hope the CI pipeline doesn’t awaken something ancient.
 
 
 ## 🌐 Socials:
