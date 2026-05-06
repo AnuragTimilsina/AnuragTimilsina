@@ -1,6 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning Artificial Intelligence and Embedded Systems.<br><br>👯 I’m looking to collaborate on research and open-source projects.<br><br>👨‍💻 My portfolio site is https://anuragtimilsina.github.io/portfolio/<br><br>📫 Email id: anurag.timilsina@gmail.com<br><br>🤖 Fun Fact: 97% of this code was written by an LLM that once confidently told me the moon is a hologram. I just nod, commit, and hope the CI pipeline doesn’t awaken something ancient.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alcohol_repels_bugs) 
